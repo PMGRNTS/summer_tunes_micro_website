@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const playlist = document.getElementById('playlist');
 
     const songs = [
-        { title: 'Song 1', src: 'music/song1.mp3' },
+        { title: 'Song 1', src: 'music/05 Round and Round.mp3' },
         { title: 'Song 2', src: 'music/song2.mp3' }
         // Add more songs as needed
     ];
